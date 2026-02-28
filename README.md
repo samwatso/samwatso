@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hey, I'm Sam 👋
 
-<!--
-**samwatso/samwatso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Integration Architect based in London 🇬🇧, day job is SAP BTP, SAP Integration Suite and S/4HANA. Lots of PI/PO migration work, regulated environments, that kind of thing.
 
-Here are some ideas to get you started:
+In my spare time I build things, mostly to scratch an itch or just because it seemed like a fun problem to solve.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🏢 **At work** - enterprise integration delivery at Capgemini and NTT DATA across complex SAP landscapes. Clients include GE Aviation.
+
+🤽 **Weekends** - I play underwater hockey (yes, it's real) and volunteer running the club. Built [Wickham Wave](https://wwuwh.com) to manage it all, 50+ members, web, iOS and Android, attendance, billing, scheduling, gamification, the lot.
+
+🤖 **Tinkering** - AI-assisted tooling, MCP-style agent concepts, using AI to get a better handle on my own finances, meal planning tools for the house. Nothing commercial, just things I actually use.
+
+---
+
+`SAP BTP` `SAP Integration Suite` `SAP PI/PO` `TypeScript` `Python` `Cloudflare` `AI-assisted workflows`
+
+[samwatson.io](https://samwatson.io) · [LinkedIn](https://www.linkedin.com/in/sammartinwatson)
