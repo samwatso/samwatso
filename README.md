@@ -6,7 +6,7 @@ In my spare time I build things, mostly to scratch an itch or just because it se
 
 ---
 
-🏢 **At work** - enterprise integration delivery at Capgemini and NTT DATA across complex SAP landscapes. Clients include GE Aviation.
+🏢 **At work** - Integration architect at Capgemini, dealing with complex SAP landscapes.
 
 🤽 **Weekends** - I play underwater hockey (yes, it's real) and volunteer running the club. Built [Wickham Wave](https://wwuwh.com) to manage it all, 50+ members, web, iOS and Android, attendance, billing, scheduling, gamification, the lot.
 
